@@ -1,5 +1,5 @@
-import os, sys
-import socket
+imort os, sys
+imprt socket
 import re, select
 import time, threading
 
