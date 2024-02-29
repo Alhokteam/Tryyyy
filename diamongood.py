@@ -1,2 +1,2 @@
 	
-					print('bey')
+					print('by')
