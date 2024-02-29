@@ -17,9 +17,7 @@ SOCKS_VERSION = 5
 # 76, 84 | Lvl = True | LT
 
 #[👑FF0000]Thành Miinh
-print("Tool có những chức năng cày level team5 kc ảo")
-print("Nghi /lvl để dùng cày lv /5 để dùng team5 /kc để dùng kc ảo")
-print("Mua Tool Ib Tele@MinhDataa")
+
 print("Mua Tool Ib Zalo 0337641745")
 
 
